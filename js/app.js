@@ -151,7 +151,7 @@ function uzRenderSidebar() {
 document.addEventListener('DOMContentLoaded', uzRenderSidebar);
 
 /* ── GAS設定 ─────────────────────────────────────────────── */
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbwBDHj9-p6ZT6ExXrxF1Q-XwiEkNMPwDc0aAuk7zptivRhWhepvaCDsjaIJd7WHh_h9-A/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbz89EV9ApRWlS8Rih0NLakTd-BOKLYq4ekrnjcr5gqHywPvs1Pg_YEfls0Ur53TE9dY-g/exec';
 
 /* ── デモモード（複製元 ultra-z-leo・UI確認用） ───────────────
    複製元はテンプレGASの SPREADSHEET_ID が __SPREADSHEET_ID__ のままで、
